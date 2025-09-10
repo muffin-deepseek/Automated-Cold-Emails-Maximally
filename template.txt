@@ -1,0 +1,5 @@
+Hi {{name}},
+
+This is a test from {{from_name}} ({{from_email}}) on {{today}}.
+
+Best regards!

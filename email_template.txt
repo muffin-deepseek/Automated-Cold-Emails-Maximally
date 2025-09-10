@@ -1,0 +1,8 @@
+Hi {{first_name}},
+
+I’m reaching out to share Maximally — a platform that helps students learn faster with AI-guided practice and instant feedback. Schools like {{school}} use it to boost outcomes with minimal teacher overhead.
+
+Would you be open to a 15-minute walkthrough to see if it’s a fit for {{school}}? You can also explore more here: https://maximally.in/
+
+Best,
+{{from_name}} 

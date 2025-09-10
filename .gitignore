@@ -1,0 +1,26 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.egg-info/
+build/
+dist/
+
+# Environments
+.venv/
+venv/
+ENV/
+
+# Editors/IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+send.log
+
+# Secrets
+.env
+.env.*
