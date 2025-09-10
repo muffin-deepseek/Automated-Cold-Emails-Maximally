@@ -47,4 +47,4 @@ python main.py --csv contacts.csv --template template.txt --subject "Hello {{nam
 - Log to file: `--log-file send.log`
 
 ## License
-MIT 
+MIT
